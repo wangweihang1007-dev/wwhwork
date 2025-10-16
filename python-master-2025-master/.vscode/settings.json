@@ -1,0 +1,13 @@
+{
+    "workbench.colorCustomizations": {
+        "terminal.ansiYellow": "#C19C00",
+        "editorCursor.foreground": "#FF0000",
+        "terminalCursor.foreground": "#FF0000",
+        "activityBar.background": "#4E0E59",
+        "titleBar.activeBackground": "#6E147C",
+        "titleBar.activeForeground": "#FEFCFE"
+    },
+    "cSpell.words": [
+        "infation"
+    ]
+}
